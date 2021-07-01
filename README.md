@@ -3,8 +3,24 @@ A QUIZ APP BASED ON FUNDAMENTALS OF JAVA WHERE USER CAN CLICK ON NO/YES BUTTON A
 
 <p float="left">
 <img src="images/ss1.jpg" height=600>
-
+&nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+ 
 <img  src="images/ss2.jpg" height=600>
+&nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
 
 <img  src="images/ss3.jpg" height=600>
 </p>
